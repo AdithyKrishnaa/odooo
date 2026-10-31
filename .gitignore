@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 ﻿.env
 .venv/
 __pycache__/
 *.py[cod]
 db.sqlite3
+=======
+venv/
+.venv/
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+*.pdf
+>>>>>>> 5796a1a6896771bc888fdb2f786873b8811cccbf
